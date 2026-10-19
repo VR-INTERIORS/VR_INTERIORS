@@ -1,1 +1,1 @@
-URL - https://vr-interiors.github.io/VR_Interiors
+URL - https://github.com/VR-INTERIORS/VR_INTERIORS
